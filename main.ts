@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 // make a birthday party event 
 
 // make dinner first
