@@ -5,7 +5,7 @@
 
 let birthday = "Ali";
 let ageOfAli = 5;
-let guestInvited = 8;
+let guestInvited = 5;
 let gifts  ;
 
 // first guest come his name is rohan and he wished to ali and order in dinner is Shami Qabab.
