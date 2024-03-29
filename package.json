@@ -1,0 +1,21 @@
+{
+  "name": "functions.ts",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "no"
+  ],
+  "author": "tayyab",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
